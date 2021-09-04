@@ -1,0 +1,27 @@
+2021-09-03 13:28:10.405 (0x7ffee2dbbcd0) Debug: New PolkitAgentListener  0x5561d568ba00
+2021-09-03 13:28:10.405 (0x7ffee2dbbcd0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffee2dbbce0) for  0x5561d568ba00
+2021-09-03 13:28:13.836 (0x7ffd0cc37bf0) Warning: Icon theme "elementary" not found.
+2021-09-03 13:28:14.080 (0x7ffc0b7beeb0) Warning: Icon theme "elementary" not found.
+2021-09-03 13:28:14.665 (0x7ffc0b7beeb0) Debug: systemd: "CanHibernate" = "na"
+2021-09-03 13:28:14.666 (0x7ffc0b7beeb0) Warning: dbusGetProperty: QDBusInterface is invalid "org.freedesktop.UPower" "/org/freedesktop/UPower" "org.freedesktop.DBus.Properties" "CanHibernate"
+2021-09-03 13:28:14.670 (0x7ffc0b7beeb0) Warning: dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+2021-09-03 13:28:14.677 (0x7ffc0b7beeb0) Debug: systemd: "CanSuspend" = "yes"
+2021-09-03 13:28:15.904 (0x7fffef391490) Debug: systemd: "CanReboot" = "yes"
+2021-09-03 13:28:16.181 (0x7fffef391490) Debug: systemd: "CanPowerOff" = "yes"
+2021-09-03 13:28:18.670 (0x7ffd0cc37bf0) Debug: ()
+2021-09-03 13:28:18.964 (0x7ffd0cc37bf0) Debug: WinIdChange e00008 handle QWidgetWindow(0x564f9717b620, name="LXQtPanel panel1Window") QScreen(0x564f96ed5da0, name="VGA-0")
+2021-09-03 13:28:19.009 (0x7ffd0cc37bf0) Debug: Systray started
+2021-09-03 13:28:20.409 (0x7ffe6b19b490) Warning: Icon theme "elementary" not found.
+2021-09-03 13:28:20.483 (0x7ffeae6f9240) Warning: Icon theme "elementary" not found.
+2021-09-03 13:28:20.582 (0x7ffeae6f9240) Debug: BatteryChanged discharging: true chargeLevel: nan actionTime: QTime(Invalid)
+2021-09-03 13:28:20.599 (0x7ffeae6f9240) Debug: Inhibit got: 24
+2021-09-03 13:28:21.108 (0x7ffeae6f9240) Debug: Starting idlenesswatcher
+2021-09-03 13:28:22.582 (0x7ffd0cc37bf0) Debug: Unknown property margin-button
+2021-09-03 13:28:22.582 (0x7ffd0cc37bf0) Debug: Unknown property margin-button
+2021-09-03 13:28:22.582 (0x7ffd0cc37bf0) Debug: Unknown property margin-button
+2021-09-03 13:28:23.956 (0x7ffd0cc37bf0) Debug: Unknown property margin-button
+2021-09-03 13:28:23.956 (0x7ffd0cc37bf0) Debug: Unknown property margin-button
+2021-09-03 13:28:23.956 (0x7ffd0cc37bf0) Debug: Unknown property margin-button
+2021-09-03 13:59:53.426 (0x7ffd0cc37bf0) Debug: execAction "/usr/share/applications/firefox.desktop"
+2021-09-03 14:04:13.970 (0x7ffd0cc37bf0) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 2518, resource id: 35651587, major code: 18 (ChangeProperty), minor code: 0
+2021-09-03 14:04:19.982 (0x7ffde7563630) Warning: Icon theme "elementary" not found.

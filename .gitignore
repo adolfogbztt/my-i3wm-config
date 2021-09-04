@@ -1,0 +1,9 @@
+.*
+!/.config
+!/.fonts
+!.wallpaper.jpg
+!.gitignore
+Descargas
+Desktop
+nvim
+project
